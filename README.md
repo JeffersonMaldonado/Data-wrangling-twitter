@@ -8,10 +8,10 @@ In the fourth section I will try to analyze the data already organized and clean
 
 ### Python
 
-pandas==0.24.2
-numpy==1.20.0
-matplotlib==3.3.3
-seaborn 0.11.1
-requests
-json
-time
+- pandas==0.24.2
+- numpy==1.20.0
+- matplotlib==3.3.3
+- seaborn 0.11.1
+- requests
+- json
+- time
